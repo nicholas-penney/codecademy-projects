@@ -1,0 +1,10 @@
+C:\Users\Ning\All Files\0 ITCS\Paddy Projects\02 Console-Game-Starting\bin\Debug\netcoreapp2.2\ConsoleGame.deps.json
+C:\Users\Ning\All Files\0 ITCS\Paddy Projects\02 Console-Game-Starting\bin\Debug\netcoreapp2.2\ConsoleGame.runtimeconfig.json
+C:\Users\Ning\All Files\0 ITCS\Paddy Projects\02 Console-Game-Starting\bin\Debug\netcoreapp2.2\ConsoleGame.runtimeconfig.dev.json
+C:\Users\Ning\All Files\0 ITCS\Paddy Projects\02 Console-Game-Starting\bin\Debug\netcoreapp2.2\ConsoleGame.dll
+C:\Users\Ning\All Files\0 ITCS\Paddy Projects\02 Console-Game-Starting\bin\Debug\netcoreapp2.2\ConsoleGame.pdb
+C:\Users\Ning\All Files\0 ITCS\Paddy Projects\02 Console-Game-Starting\obj\Debug\netcoreapp2.2\ConsoleGame.csprojAssemblyReference.cache
+C:\Users\Ning\All Files\0 ITCS\Paddy Projects\02 Console-Game-Starting\obj\Debug\netcoreapp2.2\ConsoleGame.AssemblyInfoInputs.cache
+C:\Users\Ning\All Files\0 ITCS\Paddy Projects\02 Console-Game-Starting\obj\Debug\netcoreapp2.2\ConsoleGame.AssemblyInfo.cs
+C:\Users\Ning\All Files\0 ITCS\Paddy Projects\02 Console-Game-Starting\obj\Debug\netcoreapp2.2\ConsoleGame.dll
+C:\Users\Ning\All Files\0 ITCS\Paddy Projects\02 Console-Game-Starting\obj\Debug\netcoreapp2.2\ConsoleGame.pdb
